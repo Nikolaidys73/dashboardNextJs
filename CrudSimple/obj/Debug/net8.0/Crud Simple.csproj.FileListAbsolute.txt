@@ -1,0 +1,109 @@
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\bin\Debug\net8.0\appsettings.json
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\bin\Debug\net8.0\Crud Simple.staticwebassets.endpoints.json
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\bin\Debug\net8.0\Crud Simple.exe
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\bin\Debug\net8.0\Crud Simple.deps.json
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\bin\Debug\net8.0\Crud Simple.runtimeconfig.json
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\bin\Debug\net8.0\Crud Simple.dll
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\bin\Debug\net8.0\Crud Simple.pdb
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\obj\Debug\net8.0\Crud Simple.csproj.AssemblyReference.cache
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\obj\Debug\net8.0\Crud Simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\obj\Debug\net8.0\Crud Simple.AssemblyInfoInputs.cache
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\obj\Debug\net8.0\Crud Simple.AssemblyInfo.cs
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\obj\Debug\net8.0\Crud Simple.csproj.CoreCompileInputs.cache
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\obj\Debug\net8.0\Crud Simple.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\obj\Debug\net8.0\Crud Simple.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\obj\Debug\net8.0\scopedcss\bundle\Crud Simple.styles.css
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\obj\Debug\net8.0\Crud Sim.DDF7D7CB.Up2Date
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\obj\Debug\net8.0\Crud Simple.dll
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\obj\Debug\net8.0\refint\Crud Simple.dll
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\obj\Debug\net8.0\Crud Simple.pdb
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\obj\Debug\net8.0\Crud Simple.genruntimeconfig.cache
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\obj\Debug\net8.0\ref\Crud Simple.dll
+C:\Users\nbasilico\source\repos\pruebAstro\Crud Simple\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\bin\Debug\net8.0\appsettings.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\bin\Debug\net8.0\Crud Simple.staticwebassets.endpoints.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\bin\Debug\net8.0\Front\nextjs-crud-frontend\package-lock.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\bin\Debug\net8.0\Front\nextjs-crud-frontend\package.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\bin\Debug\net8.0\Front\nextjs-crud-frontend\tsconfig.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\bin\Debug\net8.0\Crud Simple.exe
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\bin\Debug\net8.0\Crud Simple.deps.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\bin\Debug\net8.0\Crud Simple.runtimeconfig.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\bin\Debug\net8.0\Crud Simple.dll
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\bin\Debug\net8.0\Crud Simple.pdb
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\obj\Debug\net8.0\Crud Simple.csproj.AssemblyReference.cache
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\obj\Debug\net8.0\Crud Simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\obj\Debug\net8.0\Crud Simple.AssemblyInfoInputs.cache
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\obj\Debug\net8.0\Crud Simple.AssemblyInfo.cs
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\obj\Debug\net8.0\Crud Simple.csproj.CoreCompileInputs.cache
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\obj\Debug\net8.0\Crud Simple.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\obj\Debug\net8.0\Crud Simple.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\obj\Debug\net8.0\scopedcss\bundle\Crud Simple.styles.css
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\obj\Debug\net8.0\Crud Sim.DDF7D7CB.Up2Date
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\obj\Debug\net8.0\Crud Simple.dll
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\obj\Debug\net8.0\refint\Crud Simple.dll
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\obj\Debug\net8.0\Crud Simple.pdb
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\obj\Debug\net8.0\Crud Simple.genruntimeconfig.cache
+C:\Users\nbasilico\source\repos\pruebaNextjs\Crud Simple\obj\Debug\net8.0\ref\Crud Simple.dll
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\bin\Debug\net8.0\appsettings.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\bin\Debug\net8.0\front\nextjs-crud-frontend\tsconfig.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\bin\Debug\net8.0\Crud Simple.staticwebassets.endpoints.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\bin\Debug\net8.0\front\nextjs-crud-frontend\package-lock.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\bin\Debug\net8.0\front\nextjs-crud-frontend\package.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\bin\Debug\net8.0\Crud Simple.exe
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\bin\Debug\net8.0\Crud Simple.deps.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\bin\Debug\net8.0\Crud Simple.runtimeconfig.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\bin\Debug\net8.0\Crud Simple.dll
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\bin\Debug\net8.0\Crud Simple.pdb
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\obj\Debug\net8.0\Crud Simple.csproj.AssemblyReference.cache
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\obj\Debug\net8.0\Crud Simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\obj\Debug\net8.0\Crud Simple.AssemblyInfoInputs.cache
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\obj\Debug\net8.0\Crud Simple.AssemblyInfo.cs
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\obj\Debug\net8.0\Crud Simple.csproj.CoreCompileInputs.cache
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\obj\Debug\net8.0\Crud Simple.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\obj\Debug\net8.0\Crud Simple.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\obj\Debug\net8.0\scopedcss\bundle\Crud Simple.styles.css
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\obj\Debug\net8.0\Crud Sim.DDF7D7CB.Up2Date
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\obj\Debug\net8.0\Crud Simple.dll
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\obj\Debug\net8.0\refint\Crud Simple.dll
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\obj\Debug\net8.0\Crud Simple.pdb
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\obj\Debug\net8.0\Crud Simple.genruntimeconfig.cache
+C:\Users\nbasilico\source\repos\pruebaNextjs\CrudSimple\obj\Debug\net8.0\ref\Crud Simple.dll
